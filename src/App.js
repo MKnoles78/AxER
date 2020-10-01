@@ -4,7 +4,7 @@ import './style.css'
 const App = () => {
     return (
         <div>
-            
+            <p>axer</p>
         </div>
     );
 };
