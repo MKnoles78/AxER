@@ -1,10 +1,11 @@
 import React from 'react';
+import Navbar from './components/Navbar';
 import './style.css'
 
 const App = () => {
     return (
         <div>
-            <p>axer</p>
+            <Navbar />
         </div>
     );
 };
